@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1,
+    "title": "ShopDefy",
+    "category": "Shopify",
+    "image": "/projects/shopdefy.jpg",
+    "description": "Modern Shopify ecommerce store focused on performance, conversions, and seamless customer experience.",
+    "technologies": [
+      "Shopify",
+      "Liquid",
+      "JavaScript"
+    ],
+    "live": "https://shopdefy.co"
+  },
+  {
+    "id": 2,
+    "title": "Everbyx",
+    "category": "Shopify",
+    "image": "/projects/everbyx.jpg",
+    "description": "Custom Shopify storefront with optimized shopping experience and responsive design.",
+    "technologies": [
+      "Shopify",
+      "Liquid",
+      "CSS"
+    ],
+    "live": "https://everbyx.com"
+  },
+  {
+    "id": 3,
+    "title": "Nama Clo",
+    "category": "Shopify",
+    "image": "/projects/namaclo.jpg",
+    "description": "Fashion-focused Shopify store with custom sections and modern UI.",
+    "technologies": [
+      "Shopify",
+      "JavaScript",
+      "Liquid"
+    ],
+    "live": "https://namaclo.com"
+  },
+  {
+    "id": 4,
+    "title": "Devon Wick",
+    "category": "Shopify",
+    "image": "/projects/devonwick.jpg",
+    "description": "Premium ecommerce website built with Shopify for enhanced user engagement.",
+    "technologies": [
+      "Shopify",
+      "Liquid"
+    ],
+    "live": "https://devonwick.com"
+  },
+  {
+    "id": 5,
+    "title": "Signet Sunday",
+    "category": "Shopify",
+    "image": "/projects/signetsunday.jpg",
+    "description": "Luxury jewelry ecommerce experience with custom Shopify development.",
+    "technologies": [
+      "Shopify",
+      "Liquid",
+      "JavaScript"
+    ],
+    "live": "https://signetsunday.com"
+  },
+  {
+    "id": 6,
+    "title": "MGI Clinic",
+    "category": "WordPress",
+    "image": "/projects/mgiclinic.jpg",
+    "description": "Healthcare website built on WordPress with a clean and professional design.",
+    "technologies": [
+      "WordPress",
+      "Elementor"
+    ],
+    "live": "https://www.mgiclinic.com"
+  },
+  {
+    "id": 7,
+    "title": "Concierge Rheum",
+    "category": "WordPress",
+    "image": "/projects/conciergerheum.jpg",
+    "description": "Medical service website developed with WordPress and custom layouts.",
+    "technologies": [
+      "WordPress",
+      "CSS"
+    ],
+    "live": "https://conciergerheum.com"
+  },
+  {
+    "id": 8,
+    "title": "Blue Zone Clinic",
+    "category": "WordPress",
+    "image": "/projects/bluezoneclinic.jpg",
+    "description": "Healthcare-focused website optimized for usability and patient engagement.",
+    "technologies": [
+      "WordPress",
+      "Elementor"
+    ],
+    "live": "https://bluezoneclinic.com"
+  },
+  {
+    "id": 9,
+    "title": "The Nick Strand",
+    "category": "Squarespace",
+    "image": "/projects/thenickstrand.jpg",
+    "description": "Professional personal brand website built with Webflow, featuring a modern design, smooth interactions, and responsive user experience.",
+    "technologies": [
+      "Squarespace"
+    ],
+    "live": "https://www.thenickstrand.com/"
+  },
+  {
+    "id": 10,
+    "title": "The Skintessa",
+    "category": "Squarespace",
+    "image": "/projects/skintessa.jpg",
+    "description": "Elegant beauty and skincare website with responsive design.",
+    "technologies": [
+      "Squarespace"
+    ],
+    "live": "https://www.theskintessa.com"
+  },
+  {
+    "id": 11,
+    "title": "Trawool Estate",
+    "category": "Squarespace",
+    "image": "/projects/trawoolestate.jpg",
+    "description": "Luxury estate website featuring immersive visuals and modern layouts.",
+    "technologies": [
+      "Squarespace"
+    ],
+    "live": "https://www.trawoolestate.com.au"
+  },
+  {
+    "id": 12,
+    "title": "Love Is In The Air Co",
+    "category": "Squarespace",
+    "image": "/projects/loveisintheair.jpg",
+    "description": "Creative event and wedding-focused website built with Squarespace.",
+    "technologies": [
+      "Squarespace"
+    ],
+    "live": "https://www.loveisintheairco.com"
+  },
+  {
+    "id": 13,
+    "title": "OnHand Solution",
+    "category": "Framer",
+    "image": "/projects/onhandsolution.jpg",
+    "description": "High-converting Framer website with smooth interactions and modern UI.",
+    "technologies": [
+      "Framer"
+    ],
+    "live": "https://onhandsolution.com"
+  },
+  {
+    "id": 14,
+    "title": "OnLumina",
+    "category": "Framer",
+    "image": "/projects/onlumina.jpg",
+    "description": "Modern SaaS website developed in Framer with engaging animations.",
+    "technologies": [
+      "Framer"
+    ],
+    "live": "https://www.onlumina.com"
+  },
+  {
+    "id": 15,
+    "title": "Mindroom",
+    "category": "Framer",
+    "image": "/projects/mindroom.jpg",
+    "description": "Creative Framer website delivering immersive user experiences.",
+    "technologies": [
+      "Framer"
+    ],
+    "live": "https://www.mindroom.rocks"
+  },
+  {
+    "id": 16,
+    "title": "WithFred AI",
+    "category": "Framer",
+    "image": "/projects/withfred.jpg",
+    "description": "AI-focused landing page built with Framer and premium animations.",
+    "technologies": [
+      "Framer"
+    ],
+    "live": "https://www.withfred.ai"
+  },
+  {
+    "id": 17,
+    "title": "WithSiro",
+    "category": "Framer",
+    "image": "/projects/withsiro.jpg",
+    "description": "Modern startup website designed and developed using Framer.",
+    "technologies": [
+      "Framer"
+    ],
+    "live": "https://withsiro.com"
+  },
+  {
+    "id": 18,
+    "title": "Enerza Group",
+    "category": "Webflow",
+    "image": "/projects/enerzagroup.jpg",
+    "description": "Modern corporate website built with Webflow featuring responsive layouts and professional design.",
+    "technologies": [
+      "Webflow"
+    ],
+    "live": "https://www.enerzagroup.com/"
+  },
+  {
+    "id": 19,
+    "title": "Sunhorn Fuel",
+    "category": "Webflow",
+    "image": "/projects/sunhornfuel.jpg",
+    "description": "Webflow-powered business website focused on performance, branding, and user experience.",
+    "technologies": [
+      "Webflow"
+    ],
+    "live": "https://www.sunhornfuel.com/"
+  },
+  {
+    "id": 20,
+    "title": "MH2 Dental",
+    "category": "Wix",
+    "image": "/projects/mh2dental.jpg",
+    "description": "Professional dental clinic website designed and developed using Wix.",
+    "technologies": [
+      "Wix"
+    ],
+    "live": "https://www.mh2dental.com/"
+  },
+  {
+    "id": 21,
+    "title": "SharpTilt",
+    "category": "Wix",
+    "image": "/projects/sharptilt.jpg",
+    "description": "Business-focused Wix website with a modern interface and responsive design.",
+    "technologies": [
+      "Wix"
+    ],
+    "live": "https://www.sharptilt.com/"
+  },
+  {
+    "id": 22,
+    "title": "UInterview AI",
+    "category": "Wix",
+    "image": "/projects/uinterview.jpg",
+    "description": "AI-powered interview platform website developed using Wix with a clean and engaging user experience.",
+    "technologies": [
+      "Wix"
+    ],
+    "live": "https://www.uinterview.ai/"
+  }
+]

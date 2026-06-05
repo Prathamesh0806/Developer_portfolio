@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shopify",
+    "percentage": 95
+  },
+  {
+    "name": "WordPress",
+    "percentage": 92
+  },
+  {
+    "name": "Framer",
+    "percentage": 95
+  },
+  {
+    "name": "Webflow",
+    "percentage": 90
+  },
+  {
+    "name": "Wix",
+    "percentage": 90
+  },
+  {
+    "name": "Squarepress",
+    "percentage": 94
+  },
+  {
+    "name": "React",
+    "percentage": 95
+  },
+  {
+    "name": "JavaScript",
+    "percentage": 88
+  }
+]
