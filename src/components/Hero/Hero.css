@@ -288,6 +288,12 @@
 
 @media (max-width: 992px) {
 
+  .hero {
+    padding-top: 120px; /* Adjust according to navbar height */
+            padding-bottom: 60px;
+    min-height: auto;
+  }
+
   .hero-content {
     grid-template-columns: 1fr;
     text-align: center;
@@ -319,5 +325,23 @@
 
   .line {
     font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .hero {
+    padding-top: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .hero {
+    padding-top: 90px;
+  }
+
+  .hero-left h1 {
+    font-size: 2.8rem;
   }
 }
