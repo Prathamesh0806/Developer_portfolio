@@ -7,6 +7,9 @@
   margin: auto;
   padding-bottom: 70px;
 }
+.swiper-button-next svg, .swiper-button-prev svg{
+    height:20px;
+}
 
 .testimonial-card {
   position: relative;
