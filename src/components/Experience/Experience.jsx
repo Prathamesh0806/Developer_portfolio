@@ -4,24 +4,24 @@ import { motion } from "framer-motion";
 const experiences = [
   {
     year: "2025 - Present",
-    role: "Senior Web Developer",
+    role: "Expert Web Developer",
     company: "Freelance",
     description:
-      "Building Shopify, Framer, Webflow and React websites for clients worldwide."
+      "Leading end-to-end development of Shopify, Framer, Webflow, WordPress, and React projects for clients worldwide, with a focus on performance, scalability, and conversion optimization."
   },
   {
     year: "2023 - 2025",
-    role: "Frontend Developer",
-    company: "Digital Agency",
+    role: "Senior Frontend Developer",
+    company: "Freelance",
     description:
-      "Developed responsive websites and custom ecommerce experiences."
+      "Built responsive websites and ecommerce experiences, transformed Figma designs into production-ready interfaces, and delivered custom solutions for businesses across various industries."
   },
   {
     year: "2021 - 2023",
-    role: "Shopify Developer",
-    company: "Ecommerce Agency",
+    role: "Junior Shopify Developer",
+    company: "Freelance",
     description:
-      "Worked on theme customization, custom sections and store optimization."
+      "Developed and customized Shopify stores, created custom sections, optimized storefronts, and enhanced user experiences using Liquid, HTML, CSS, and JavaScript."
   }
 ];
 
